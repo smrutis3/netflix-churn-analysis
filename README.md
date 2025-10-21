@@ -1,4 +1,4 @@
-# netflix-churn-analysis
+# Netflix-Churn-Analysis
 Customer Churn Analysis for a Subscription Service
 
 
